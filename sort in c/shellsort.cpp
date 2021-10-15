@@ -28,7 +28,7 @@ void shell_sort(int list[], int n){
   }
 }
 
-void main(){
+int main(){
   int i;
   int n = MAX_SIZE;
   int list[n] = {10, 8, 6, 20, 4, 3, 22, 1, 0, 15, 16};
