@@ -15,7 +15,7 @@ void bubble_sort(int list[], int n){
   }
 }
 
-void main(){
+int main(){
   int i;
   int n = MAX_SIZE;
   int list[n] = {7, 4, 5, 1, 3};
