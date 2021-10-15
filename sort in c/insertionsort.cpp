@@ -14,7 +14,7 @@ void insertion_sort(int list[], int n){
   }
 }
 
-void main(){
+int main(){
   int i;
   int n = MAX_SIZE;
   int list[n] = {8, 5, 6, 2, 4};
